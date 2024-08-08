@@ -1,2 +1,2 @@
 // Add any JavaScript you need here
-console.log("Welcome to My GitHub Page!");
+console.log("Welcome to My Personal Page!");
