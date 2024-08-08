@@ -55,10 +55,11 @@ footer {
     bottom: 0;
 }
 .about-image {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 10px auto;
-    border-radius: 50%; /* This will make the image circular if it's a square */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Adds a slight shadow */
+    width: 150px; /* Set the desired width of the image */
+    height: auto; /* Maintain aspect ratio */
+    float: right; /* Align the image to the right of the text */
+    margin-left: 20px; /* Space between the image and the text */
+    margin-bottom: 10px; /* Space below the image */
+    border-radius: 50%; /* Optional: Make the image circular */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow */
 }
